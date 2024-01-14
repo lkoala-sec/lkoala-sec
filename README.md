@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lkoala-sec 🇧🇷
-- 👀 I’m interested in Python and A.I
-- 🌱 I’m currently learning Python and A.I
-- 💞️ I’m looking to collaborate on Python community for A.I developers
+- 👀 I’m interested in Python, C++ and Software development
+- 🌱 I’m currently learning Python, C++ and Software development
+- 💞️ I’m looking to collaborate on C++ community for Software developers
 - 📫 How to reach me lucaswilliam1357@gmail.com
 
 <!---
