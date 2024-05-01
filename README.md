@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lkoala-sec 🇧🇷
+- 👋 Hi, I’m Lucas William 🇧🇷
 - 👀 I’m interested in Python, C++ and Software development
 - 🌱 I’m currently learning Python, C++ and Software development
 - 💞️ I’m looking to collaborate on C++ community for Software developers
